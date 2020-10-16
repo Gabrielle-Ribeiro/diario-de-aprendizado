@@ -1,5 +1,14 @@
 * [Sobre o Diário de Aprendizado do Estudante](/)
 
-* Conversas de Apredizagem
-  * [Aprendizagem, Empoderamento e Autonomia](conversa_de_aprendizagem_1.md)
-  * [Realidades, Perspectivas e Propósito](conversa_de_aprendizagem_2.md)
+* <details><summary><a style="display: inline;">Conversas de Aprendizagem</summary></a>
+    <ul>
+      <li><a href="#/conversa_de_aprendizagem_1.md">Aprendizagem, Empoderamento e Autonomia</a></li>
+      <li><a href="#/conversa_de_aprendizagem_2.md">Realidades, Perspectivas e Propósito</a></li>
+    </ul>
+  </details>
+
+* <details><summary><a style="display: inline;">Conhecimentos Adquiridos</summary></a>
+    <ul>
+      <li><a href="#/fundamentos_requisitos.md">Fundamentos da Engenharia de Requisitos</a></li>
+    </ul>
+  </details>
