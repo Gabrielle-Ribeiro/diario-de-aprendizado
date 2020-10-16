@@ -12,3 +12,14 @@
       <li><a href="#/fundamentos_requisitos.md">Fundamentos da Engenharia de Requisitos</a></li>
     </ul>
   </details>
+
+* <details><summary><a style="display: inline;">Minhas Interações</summary></a>
+    <ul>
+    </ul>
+  </details>
+
+* <details><summary><a style="display: inline;">Facilidades e Dificuldades</summary></a>
+    <ul>
+    </ul>
+  </details>
+
