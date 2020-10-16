@@ -24,3 +24,5 @@
 #### Facilidades e Dificuldades
 <p align="justify">Nessa seção você irá encontrar alguns pontos sobre as minhas facilidades e dificuldades durante o meu processo de aprendizagem na disciplina de Requisitos de Software.</p>
 
+#### Sugestões
+<p align="justify">Nessa seção você irá encontrar sugestões de melhoria no processo de ensino-aprendizagem, com práticas, ferramentas, etc.</p>
