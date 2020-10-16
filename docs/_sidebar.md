@@ -15,6 +15,7 @@
 
 * <details><summary><a style="display: inline;">Minhas Interações</summary></a>
     <ul>
+      <li><a href="#/interacao_conversa_aprendizagem.md">Interação - Conversas de Aprendizagem</a></li>
     </ul>
   </details>
 
