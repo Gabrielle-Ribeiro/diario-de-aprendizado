@@ -9,6 +9,7 @@
 
 * <details><summary><a style="display: inline;">Conhecimentos Adquiridos</summary></a>
     <ul>
+      <li><a href="#/fundamentos_eng_software.md">Fundamentos da Engenharia de Software</a></li>
       <li><a href="#/fundamentos_requisitos.md">Fundamentos da Engenharia de Requisitos</a></li>
       <li><a href="#/problemas_necessidades.md">Problemas e Necessidades</a></li>
     </ul>
