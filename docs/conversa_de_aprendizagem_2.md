@@ -26,4 +26,8 @@
 
 <p align="justify">Esse momento, sem dúvidas trouxe uma série de incertezas. E nós temos duas possibilidades de lidar com isso: Se opor e ficar ansioso ou aceitar e fazer dar certo. Eu fico com a escolha de aceitar e fazer dar certo, pode dar errado, mas o que importa aqui é sua postura frente as dificuldades.</p>
 
+<p align="center"><img src="https://media0.giphy.com/media/lNGCmbNcJzNAkHdIe0/giphy.gif?cid=ecf05e473bdad8ab6bd0256d2d4ca22c04ad5d58c70de1a2&rid=giphy.gif" width=300 height=auto></p>
+
 <p align="justify">A mudança pode ser extremamente dolorida, porém ela se faz completamente necessária agora.</p>
+
+
