@@ -4,7 +4,7 @@
 
 <p align="justify">Um dos primeiros tópicos apresentados na conversa é a ponte Choluteca, que foi construída sob o rio Choluteca em Honduras, sendo projetada e construída para resistir as catástrofes naturais, como tempestades intensas e furacões. Um furacão passou pela cidade e devastou muita coisa. A ponte continuou intacta. Entretanto, o rio acabou mudando o seu curso e a ponte perdeu sua utilidade.</p>
 
-<p align="center"><img src="../img/ponte.jpeg" width=300 height=auto></p>
+<p align="center"><img src="img/ponte.jpeg" width=300 height=auto></p>
 
 <p align="justify">Essa história nos leva a uma reflexão dentro do contexto de aprendizagem: o que estamos mantendo como essa ponte no processo de aprendizagem? A educação formal consiste de uma troca de conhecimento em busca de um objetivo. Entretanto, muitas técnicas e processos utilizados estão atrasados e já não funcionam mais.</p>
 
