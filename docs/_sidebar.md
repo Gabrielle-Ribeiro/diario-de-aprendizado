@@ -14,6 +14,7 @@
       <li><a href="#/fundamentos_requisitos.md">Fundamentos da Engenharia de Requisitos</a></li>
       <li><a href="#/problemas_necessidades.md">Problemas e Necessidades</a></li>
       <li><a href="#/casos_de_uso.md">Casos de Uso</a></li>
+      <li><a href="#/historias_de_usuario.md">Histórias de Usuário</a></li>
     </ul>
   </details>
 
@@ -38,4 +39,6 @@
       <li><a href="#/sugestao_problemas_necessidades.md">Sugestão - Problemas e Necessidades</a></li>
     </ul>
   </details>
+  
+* [Referências](/referencias.md)
 
