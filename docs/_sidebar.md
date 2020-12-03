@@ -21,6 +21,8 @@
     <ul>
       <li><a href="#/interacao_conversa_aprendizagem.md">Interação - Conversas de Aprendizagem</a></li>
       <li><a href="#/interacao_problemas_necessidades.md">Interação - Problemas e Necessidades</a></li>
+      <li><a href="#/interacao_time.md">Interação - Time do Projeto</a></li>
+      <li><a href="#/interacao_outras.md">Outras Interações</a></li>
     </ul>
   </details>
 
