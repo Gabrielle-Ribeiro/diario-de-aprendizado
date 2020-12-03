@@ -13,6 +13,7 @@
       <li><a href="#/processos_ciclos_de_vida.md">Processos e Ciclos de Vida</a></li>
       <li><a href="#/fundamentos_requisitos.md">Fundamentos da Engenharia de Requisitos</a></li>
       <li><a href="#/problemas_necessidades.md">Problemas e Necessidades</a></li>
+      <li><a href="#/casos_de_uso.md">Casos de Uso</a></li>
     </ul>
   </details>
 
