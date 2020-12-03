@@ -26,6 +26,8 @@
 
 * <details><summary><a style="display: inline;">Facilidades e Dificuldades</summary></a>
     <ul>
+      <li><a href="#/facilidades.md">Facilidades na Aprendizagem</a></li>
+      <li><a href="#/facilidades.md">Dificuldades na Aprendizagem</a></li>
     </ul>
   </details>
 
