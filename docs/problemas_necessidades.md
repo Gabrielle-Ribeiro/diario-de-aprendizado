@@ -40,3 +40,16 @@
 <p align="center"><img src="img/fishbone.png" width=550 height=auto></p>
 
 <p align="justify">Assim, ao iniciar qualquer projeto devemos fazer a seguinte pergunta: Qual é o problema que esse software vai resolver? Identificando o problema e bem como as suas causas, é possível realizar um <b>planejamento</b> e <b>priorizar</b> o que deve ser feito para solucionar o problema.</p>
+
+## Necessidades
+
+<p align="justify">As necessidades dos usuários em um projeto são muito importantes, pois é a partir delas que devem ser criados os requisitos de software do software a ser desenvolvido. Essas necessidades são identificadas através dos problemas que são levantados anteriormente, precisando estar alinhadas com as restrições do projeto.</p>
+
+<p align="justify">É bom ressaltar que as necessidades são diferentes de desejos dos stakeholders. Devemos tomar muito cuidado para não confundir uma desejo com uma necessidade, pois os desejos por vezes não estão alinhados com os problemas nem restrições do projeto. E com isso podem acabar sendo levantados requisitos desnecessários, que gerarão custos e retrabalho, pois não resolvem os problemas reais daquele cliente.</p>
+
+<p align="justify">Essas necessidades precisam estar descritas no Documento de Visão, e elas irão guiar a descrição dos requisitos funcionais e não funcionais daquele software. </p>
+
+<p align="center"><img src="https://media0.giphy.com/media/cil46PYppfoBrrXdaJ/giphy.gif?cid=ecf05e47e2df12c50bef039b96d3edb9f59f8a6b0c748279&rid=giphy.gif" width=300 height=auto></p>
+
+
+
