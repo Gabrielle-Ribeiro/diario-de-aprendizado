@@ -51,5 +51,26 @@
 
 <p align="center"><img src="https://media0.giphy.com/media/cil46PYppfoBrrXdaJ/giphy.gif?cid=ecf05e47e2df12c50bef039b96d3edb9f59f8a6b0c748279&rid=giphy.gif" width=300 height=auto></p>
 
+<p align="justify">Os requisitos de software podem surgir a partir de diversas fontes, e é preciso que o engenheiro de software tenha boas habilidades de comunicação para que seja possível extrair o máximo de informações necessárias de algumas fontes.</p>
+
+<p align="justify">Essas fontes de requisitos podem ser:</p>
+
+- O próprio cliente.
+- O modelo e plano de negócios.
+- Especialistas do domínio do problema.
+- A legislação sobre o problema.
+- Entre outros.
+
+<p align="justify">Para elicitar esses requisitos, algumas técnicas podem ser utilizadas para elicitar esses requisitos, e cabe ao responsável por essa elicitação analisar qual ou quais delas é mais útil para cada fonte. Algumas técnicas de elicitação que podem ser citadas são:</p>
+
+- Workshop de Requisitos.
+- Brainstorming.
+- Workshop de casos de uso ou de histórias de usuário.
+- Entrevistas.
+- Questionários.
+- Técnicas de imersão.
+- Prototipagem.
+
+
 
 
